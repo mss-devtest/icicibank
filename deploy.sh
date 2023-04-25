@@ -1,1 +1,3 @@
 this file contains deployment script..
+
+Added some statges logic...
